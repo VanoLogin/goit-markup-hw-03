@@ -91,7 +91,7 @@ img {
 
 .cont-resume {
     padding: 20px 24px;
-    border-bottom: 1px solid #EEEEEE;
+    border: 1px solid #EEEEEE;
     border-top: none;
 }
 .header-nav > ul> li {
@@ -109,7 +109,7 @@ img {
 
 .page-header {
     background-color: var(--primary-header-color);
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 .header-logo {
     color: var(--second-primary-color);
@@ -189,9 +189,8 @@ img {
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    width: 200px;
-    height: 50px;
     cursor: pointer;
+    padding: 10px 24px;
 
     
 }
@@ -294,11 +293,6 @@ img {
     color: var(--color-p-text);
 
     padding-bottom: 30px;
-}
-.img-team {
-    display: block;
-    max-width: 100%;
-    height: auto;
 }
 
 /* ------------------------ФУТер ------------ */

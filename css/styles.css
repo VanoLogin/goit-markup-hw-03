@@ -197,6 +197,8 @@ img {
 .hero-topic {
      padding: 94px 0;
 }
+
+
 /* ------------------HERO_TOPIC_---------- */ 
 
 .unknown {
@@ -223,6 +225,16 @@ img {
     letter-spacing: 0.03em;
     color: var(--color-p-text);
 }
+.hero-topic-svg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+
+
 /* -----------------What we are do------------ */
 .about {
     padding-bottom: 94px;
